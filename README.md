@@ -5,7 +5,5 @@ This repository contains all the projects that I have built using jetpack compos
 Email: [sudarshanmhasrup@gmail.com](mailto://sudarshanmhasrup@gmail.com).
 <div>
   
-assignments/ - Contains assignments.
-<br />
-projects/ - Contains projects.
-</div>
+- /assignments - Contains assignments.
+- /projects - Contains projects.
